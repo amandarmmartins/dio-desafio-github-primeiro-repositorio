@@ -1,0 +1,6 @@
+Comandos do Git
+Ctrl L - apagar
+Ls -a - arquivos ocultos
+git status
+MV - Comando Remover
+Q - Sair
